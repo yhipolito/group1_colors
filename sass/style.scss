@@ -1,4 +1,4 @@
-@use "variables" as *; //this puts all the variables in the global namespace.
+@use "../sass/global/variables" as *; //this puts all the variables in the global namespace.
 
 @mixin flex-center {
   display: flex;
