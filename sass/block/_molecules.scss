@@ -1,4 +1,4 @@
-@use '../global/variables' as *;
+@use '../global/theme' as *;
 @use '../composition/atoms';
 
 // use the mixins from the atoms module to compose our molecules. If you prefer the terminology 'blocks' and 'elements' feel free to use it instead!
